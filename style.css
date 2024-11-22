@@ -1,0 +1,25 @@
+body{
+    color: #fff;
+    background-color: #000;
+}
+.cal{
+    border: 1px solid #fff;
+    padding: 30px 10px;
+    width: 200px;
+}
+#head{
+    color: #000;
+    border: 1px solid #fff;
+    padding: 10px;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: scroll;
+}
+.btn{
+    color: #000;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+}
